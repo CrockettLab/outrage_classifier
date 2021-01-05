@@ -56,7 +56,10 @@ Below is a complete coded instance of the pipeline. Note that this example **ass
 
 ```python
 
-tweets = ["This topic infuriates me because it violates my moral stance", "This is just a super-normal topic #normal"]
+tweets = [
+          "This topic infuriates me because it violates my moral stance",
+          "This is just a super-normal topic #normal"
+         ]
 
 # loading our pre-trained models
 word_embed = WordEmbed()
