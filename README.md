@@ -81,7 +81,7 @@ pretrained_model_predict(tweets, embedding_url, model_url)
 There is also an example Python notebook that has a self-containing example of these two use cases: `example.ipynb`.
 
 ## Repository Contributors
-* Tuan Nguyen Doan (Main developer) – [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-doan) – tuandoan.nguyen@yale.edu
+* Tuan Nguyen Doan – [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-doan) – tuandoan.nguyen@yale.edu
 * Killian McLoughlin - [LinkedIn](www.linkedin.com/in/killian-mc-loughlin-5a151032) - killian.mcloughlin@yale.edu 
 * William Brady - [Website](http://williamjbrady.com) – bradywilliamj@gmail.com 
 
