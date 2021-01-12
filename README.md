@@ -6,8 +6,8 @@
 
 [![made-with-python][made-with-python]](https://www.python.org/)
 [![Outrageclf version][outrage-image]](www.google.com)
-[![Build Status][travis-image]][travis-url]
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](www.google.com)
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-nc-sa]
 
 ## Installation
 
@@ -92,7 +92,10 @@ There is also an example Python notebook that has a self-containing example of t
 Brady, W.J., McLoughlin, K.L., Doan, T.N., & Crockett, M.J. (2021). DOC: Digital outrage classifier. Retrieved from www.github.com
 
 ## License
-Distributed under the Creative Commons license. See ``LICENSE`` for more information.
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic License][cc-nc-sa].
+
+[![CC NC-SA 4.0][cc-nc-sa-image]][cc-nc-sa]
 
 ## Release History
 * 0.1.0
@@ -101,6 +104,8 @@ Distributed under the Creative Commons license. See ``LICENSE`` for more informa
 <!-- Markdown link & img dfn's -->
 [made-with-python]: https://img.shields.io/badge/Made%20with-Python-FF0000.svg
 [outrage-image]: https://img.shields.io/badge/DOC-v0.1.4-orange.svg
-
+[cc-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/2.0/
+[cc-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/2.0/88x31.png
+[cc-nc-sa-shield]: https://img.shields.io/badge/License-CC--NC--SA%202.0-lightgrey
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
