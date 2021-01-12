@@ -7,7 +7,7 @@
 [![made-with-python][made-with-python]](https://www.python.org/)
 [![Outrageclf version][outrage-image]](www.google.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](www.google.com)
-[![CC NC-SA 4.0](https://img.shields.io/badge/License-CC--NC--SA%202.0-lightgrey]
+[![CC NC-SA 4.0](https://img.shields.io/badge/License-CC--NC--SA%202.0-lightgrey)](www.google.com)
 
 ## Installation
 
