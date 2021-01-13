@@ -17,9 +17,9 @@ The first step is to clone the repo into a local directory on you computer. Usin
 git clone "https://github.com/CrockettLab/outrage_classifier"
 ```
 
-Then run the command below, adding the filepath where you stored the package. The package is compatible with both Python2 and Python3.
+Then run the command below. The package is compatible with both Python2 and Python3.
 ```sh
-pip install <local_filepath>
+python setup.py install 
 ```
 
 ## Importing
