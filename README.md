@@ -11,9 +11,9 @@
 
 
 ## Repository Contributors
-* Tuan Nguyen Doan – [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-doan) – tuan.nguyen.doan@aya.yale.edu
-* Killian McLoughlin - [LinkedIn](www.linkedin.com/in/killian-mc-loughlin-5a151032) - killian.mcloughlin@yale.edu 
-* William Brady - [Website](http://williamjbrady.com) – william.brady@yale.edu 
+* William Brady | Postdoctoral Fellow | Yale University, Psychology Department | [Website](http://williamjbrady.com) – william.brady@yale.edu  
+* Killian McLoughlin | Ph.D. Student | Yale University, Psychology Department | [LinkedIn](www.linkedin.com/in/killian-mc-loughlin-5a151032) - killian.mcloughlin@yale.edu 
+* Tuan Nguyen Doan | Data Scientist | Quora | [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-doan) – tuan.nguyen.doan@aya.yale.edu
 
 
 ## Installation
