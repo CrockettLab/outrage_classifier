@@ -9,6 +9,13 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](www.google.com)
 [![CC NC-SA 4.0](https://img.shields.io/badge/License-CC--NC--SA%202.0-lightgrey)](www.google.com)
 
+
+## Repository Contributors
+* Tuan Nguyen Doan – [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-doan) – tuan.nguyen.doan@aya.yale.edu
+* Killian McLoughlin - [LinkedIn](www.linkedin.com/in/killian-mc-loughlin-5a151032) - killian.mcloughlin@yale.edu 
+* William Brady - [Website](http://williamjbrady.com) – william.brady@yale.edu 
+
+
 ## Installation
 
 The first step is to clone the repo into a local directory on you computer. Using the terminal, navigate to the location where you want to store the package and run the following command:
@@ -82,11 +89,6 @@ pretrained_model_predict(tweets, embedding_url, model_url)
 **Example Notebook:**
 
 There is also an example Python notebook that has a self-containing example of these two use cases: `example.ipynb`.
-
-## Repository Contributors
-* Tuan Nguyen Doan – [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-doan) – tuan.nguyen.doan@aya.yale.edu
-* Killian McLoughlin - [LinkedIn](www.linkedin.com/in/killian-mc-loughlin-5a151032) - killian.mcloughlin@yale.edu 
-* William Brady - [Website](http://williamjbrady.com) – william.brady@yale.edu 
 
 ## Citation
 Brady, W.J., McLoughlin, K.L., Doan, T.N., & Crockett, M.J. (2021). DOC: Digital outrage classifier. Retrieved from www.github.com
