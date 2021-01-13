@@ -1,6 +1,6 @@
 # *DOC*: Digital Outrage Classifier
 
-> Developed by members of the Crockett Lab at Yale University, `DOC` is a Python package that allows researchers to predict the probability that text input contains moral outrage. 
+> Developed by members of the Crockett Lab at Yale University in the Psychology and Statistics and Data Science department, `DOC` is a Python package that allows researchers to predict the probability that text input contains moral outrage. 
 
 > The code and materials in this repository are adapted from "[Social reinforcement of moral outrage in online social networks](www.google.com)"(2021).
 
@@ -11,8 +11,8 @@
 
 
 ## Repository Contributors
-* William Brady | Postdoctoral Fellow | Yale University, Psychology Department | william.brady@yale.edu | [Website](http://williamjbrady.com)
-* Killian McLoughlin | Ph.D. Student | Yale University, Psychology Department | killian.mcloughlin@yale.edu | [LinkedIn](www.linkedin.com/in/killian-mc-loughlin-5a151032)
+* William Brady | Postdoctoral Fellow | Yale University | william.brady@yale.edu | [Website](http://williamjbrady.com)
+* Killian McLoughlin | Ph.D. Student | Yale University | killian.mcloughlin@yale.edu | [LinkedIn](www.linkedin.com/in/killian-mc-loughlin-5a151032)
 * Tuan Nguyen Doan | Data Scientist | Quora | tuan.nguyen.doan@aya.yale.edu | [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-doan)
 
 
