@@ -48,7 +48,7 @@ os.environ['KMP_DUPLICATE_LIB_OK']='True'
 ## Usage:
 The current version of `outrageclf` allows users to predict moral outrage using a pre-trained deep gated recurrent unit (GRU) model as described in detail in [this](www.google.com) article. 
 
-To run the pre-trained model used in the article, you will need **model files that are NOT hosted in this repository**. If you would like access to these files, please email the Crocket Lab manager, [Caleb Kealoha](mailto:caleb.kealoha@yale.edu?subject=[GitHub]%20Outrage%20Classifier%20Access), for access. The omited files are:
+To run the pre-trained model used in the article, you will need **model files that are NOT hosted in this repository**. If you would like access to these files, please email the Crockett Lab manager, [Caleb Kealoha](mailto:caleb.kealoha@yale.edu?subject=[GitHub]%20Outrage%20Classifier%20Access), for access. The omited files are:
 
 - [x] A pre-trained embedding model, stored in a `.joblib` format
 - [x] A pre-trained GRU model, stored in a `.h5` format 
