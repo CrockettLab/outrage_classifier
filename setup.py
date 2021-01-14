@@ -23,7 +23,7 @@ setup(name='outrageclf',
       ],
       author='Tuan Nguyen Doan',
       author_email='tuan.nguyen.doan@aya.yale.edu',
-      license='GNU General Public License v3.0',
+      license='Creative Commons Attribution-NonCommercial-ShareAlike 2.0',
       packages=['outrageclf'],
       include_package_data=True,
       zip_safe=False)
