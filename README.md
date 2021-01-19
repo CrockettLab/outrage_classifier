@@ -2,7 +2,7 @@
 
 > Developed by members of the Crockett Lab at Yale University in the Psychology and Statistics and Data Science department, `DOC` is a Python package that allows researchers to predict the probability that tweets contain moral outrage. 
 
-> The details of the development of the code and materials in this repository are described in detail in the paper, "[How social learning amplifies moral outrage expression in online social networks](www.google.com) (2021).
+> The details of the development of the code and materials in this repository are described in detail in the paper, "[How social learning amplifies moral outrage expression in online social networks](https://psyarxiv.com/gf7t5) (2021).
 
 [![made-with-python][made-with-python]](https://www.python.org/)
 [![Outrageclf version][outrage-image]](www.google.com)
@@ -91,7 +91,7 @@ pretrained_model_predict(tweets, embedding_url, model_url)
 `example.ipynb` demonstrates examples of these two use cases.
 
 ## Citation
-Brady, W.J., McLoughlin, K.L., Doan, T.N., & Crockett, M.J. (2021). How social learning amplifies moral outrage expression in online social networks. PsyArXiv. doi: 10.31234/osf.io/gf7t5
+Brady, W.J., McLoughlin, K.L., Doan, T.N., & Crockett, M.J. (2021). How social learning amplifies moral outrage expression in online social networks. [PsyArXiv](https://psyarxiv.com/gf7t5). doi: 10.31234/osf.io/gf7t5
 
 ## License
 This work is licensed under a
