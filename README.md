@@ -86,7 +86,7 @@ from outrageclf.classifier import pretrained_model_predict
 pretrained_model_predict(tweets, embedding_url, model_url)
 ```
 ## Accessing Model Files
-In order to access pre-trained model files please fill out [this form](https://forms.gle/sRDbmtGK1dW6z6ff6). The form will ask for your email and a brief description of your use case. We will then email you the model files. Note that the classifier is for use in academic research only. See the license for more information.
+In order to access the pre-trained model files please fill out [this form](https://forms.gle/sRDbmtGK1dW6z6ff6). The form will ask for your email and a brief description of your use case. We will then email you the model files. Note that the classifier is for use in academic research only. See the license for more information.
 
 ## Example Notebook
 `example.ipynb` demonstrates examples of these two use cases.
