@@ -91,7 +91,7 @@ pretrained_model_predict(tweets, embedding_url, model_url)
 `example.ipynb` demonstrates examples of these two use cases.
 
 ## Citation
-Brady, W.J., McLoughlin, K.L., Doan, T.N., & Crockett, M.J. (2021). DOC: Digital outrage classifier. Retrieved from www.github.com
+Brady, W.J., McLoughlin, K.L., Doan, T.N., & Crockett, M.J. (2021). How social learning amplifies moral outrage expression in online social networks. PsyArXiv. doi:
 
 ## License
 This work is licensed under a
