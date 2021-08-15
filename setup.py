@@ -8,7 +8,7 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(name='outrageclf',
-      version='0.1.5',
+      version='0.1.6',
       description='Outrage Classifier - developed by the Crockett Lab',
       long_description=README,
       url='https://github.com/CrockettLab/outrage_classifier',
