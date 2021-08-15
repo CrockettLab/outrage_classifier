@@ -103,6 +103,10 @@ This work is licensed under a
 ## Release History
 * 0.1.0
     * Initial release
+* 0.1.5
+    * Official release with paper
+* 0.1.6
+    * hotfix
 
 <!-- Markdown link & img dfn's -->
 [made-with-python]: https://img.shields.io/badge/Made%20with-Python-FF0000.svg
