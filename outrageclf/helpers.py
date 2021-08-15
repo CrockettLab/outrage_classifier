@@ -18,9 +18,9 @@ cachedStopWordsPunctuation = set(stopwords.words("english")
 
 # check if emojis in a string
 def char_is_emoji(char):
-    return char in emoji.UNICODE_EMOJI
+    return char in emoji.UNICODE_EMOJI['en']
 
-s = set(val for val in emoji.unicode_codes.UNICODE_EMOJI.values())
+s = set(emoji.UNICODE_EMOJI['en'].values())
 def string_is_emoji_name(text):
     return text in s
 
