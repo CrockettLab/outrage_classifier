@@ -18,7 +18,7 @@ import keras
 import keras.layers as layers
 import tensorflow.keras.backend as K
 from keras import Sequential, optimizers, initializers, regularizers, constraints
-from keras.engine.topology import Layer
+from tensorflow.python.keras.layers import Layer
 
 
 embedding_dim = 50
