@@ -12,7 +12,7 @@
 
 ## Repository Contributors
 * William Brady | Postdoctoral Fellow | Yale University | william.brady@yale.edu | [Website](http://williamjbrady.com)
-* Killian McLoughlin | Ph.D. Student | Yale University | killian.mcloughlin@yale.edu | [LinkedIn](www.linkedin.com/in/killian-mc-loughlin-5a151032)
+* Killian McLoughlin | Ph.D. Student | Princeton University | k.mcloughlin@princeton.edu | [LinkedIn](www.linkedin.com/in/killian-mc-loughlin-5a151032)
 * Tuan Nguyen Doan | Data Scientist | Quora | tuan.nguyen.doan@aya.yale.edu | [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-doan)
 
 
